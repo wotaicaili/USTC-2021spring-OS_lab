@@ -1,4 +1,4 @@
-# USTC-2021Spring-OS_lab
+# USTC-2021spring-OS_lab
 
 ## Background
 
