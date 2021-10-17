@@ -2,7 +2,7 @@
 
 ## Background
 
-This repository includes the sources and reports of the OS lab in Spring 2021, xlanchen class, USTC.
+This repository includes the sources and reports of the OS (操作系统原理与设计) lab in Spring 2021, xlanchen (陈香兰老师) class, USTC.
 
 In this lab, based on Multiboot and Qume, we will create a simple OS with Shell, and the ability of timer-interrupt handling and process scheduling.
 
